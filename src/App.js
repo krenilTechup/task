@@ -1,11 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
-import Note from './Note';
+import Notes from './Notes';
 
 function App() {
   return (
     <>
-      <Note />
+      {/* <Note /> */}
+      <Notes />
     </>
   );
 }
